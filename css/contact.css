@@ -1,0 +1,17 @@
+.backpage{
+    background-image:url(https://watermark.lovepik.com/photo/40052/1077.jpg_wh1200.jpg)
+}
+.text-size{
+
+    font-size: 20px;
+
+}
+.text-highlight{
+    background-color: #8bd3dd;
+    font-weight: bold;
+    padding: 2px 4px;
+    border-radius: 10px;
+}
+.text-color{
+    color: white;
+}

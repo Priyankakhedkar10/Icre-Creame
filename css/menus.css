@@ -1,0 +1,55 @@
+.back-img{
+background-image:-moz-element(main2.jpg)
+}
+.menu-card{
+    background-color: #ffff;
+    width: 150px;
+    padding:10px;
+    margin:10px;
+    border-radius: 10px;
+    box-shadow: -5px 5px 10px 1px #172c66;
+    border: 0.5px solid black;
+
+}
+.menu-icon{
+    height:100px;
+    display: block;
+    margin: 10px 20px;
+}
+.menu-title{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+.menu-discription{
+    font-size: 12px;
+    margin: 0;
+
+}
+.menu-order-btn{
+    background-color: #ee2b75;
+    color: #fff;
+    border:none;
+    border-radius: 10px;
+    padding:1px 10px;
+    display: block;
+    margin:5px auto;
+
+}
+
+.menu-img{
+    
+    height:80px;
+    display: block;
+    margin: 10px auto;
+}
+
+.menu-order-btn:hover{
+    cursor: pointer;
+}
+.menu-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
